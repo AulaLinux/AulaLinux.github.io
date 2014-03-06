@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo ssh 172.19.33.30 "shutdown -h now"
+Name=Shutdown
+Comment=Atura tots els PC's
+Icon=/home/jose/Escritorio/AulaLinux/Shortcut/Icono Shortcuts/exit.png
+Name[es_ES]=AturaServer

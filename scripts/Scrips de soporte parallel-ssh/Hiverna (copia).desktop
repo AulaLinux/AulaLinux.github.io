@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo parallel-ssh -h /root/pssh_hosts "sudo pm-hibernate"
+Name=Shutdown
+Comment=Atura tots els PC's
+Icon=/home/jose/Escritorio/AulaLinux/Shortcut/Icono Shortcuts/weather-showers-scattered.png
+Name[es_ES]=Hiberna

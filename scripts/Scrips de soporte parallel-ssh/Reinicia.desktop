@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo parallel-ssh -h /root/pssh_hosts "sudo shutdown -r now"
+Name=Shutdown
+Comment=Atura tots els PC's
+Icon=/home/jose/Escritorio/AulaLinux/Shortcut/Icono Shortcuts/reboot-notifier.png
+Name[es_ES]=Reinicia

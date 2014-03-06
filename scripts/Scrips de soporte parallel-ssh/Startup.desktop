@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo wakeonlan -f /root/aulalinux-macs
+Name=Startup
+Comment=Engegar totes les màquines
+Icon=/home/jose/Escritorio/AulaLinux/Shortcut/Icono Shortcuts/applications-toys.png
+Name[es_ES]=Engega
